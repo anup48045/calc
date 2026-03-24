@@ -1,7 +1,7 @@
 # 📱 Flutter Calculator App
 
 A simple and responsive calculator app built using Flutter.  
-Supports basic arithmetic operations with a clean UI.
+Supports basic arithmetic and bitwise operations with a clean UI.
 It can performs operations only on 2 numbers.
 
 ---
@@ -12,10 +12,11 @@ It can performs operations only on 2 numbers.
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
+- ^x power operation
 - % Modulo operation
-- ^ Bitwise xor operation
-- & Bitwise and operation
-- | Bitwise or operation
+- ^ Bitwise-xor operation
+- & Bitwise-and operation
+- | Bitwise-or operation
 - 🔢 Real-time input display
 - 📱 Responsive UI
 - 🧮 Smooth calculation logic
