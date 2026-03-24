@@ -12,7 +12,7 @@ It can performs operations only on 2 numbers.
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
-- ^x power operation
+- ^x Power operation
 - % Modulo operation
 - ^ Bitwise-xor operation
 - & Bitwise-and operation
