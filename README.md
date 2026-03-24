@@ -31,11 +31,11 @@ It can performs operations only on 2 numbers.
 ---
 
 ## 📂 Project Structure
+```
 lib/
-  
   └── main.dart
-
-pubspec.yaml
+pubspec.yaml 
+```
 
 ## ▶️ How to Run the Project
 
